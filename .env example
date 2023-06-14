@@ -1,0 +1,2 @@
+MONGO_URI=mongodb+srv://mirko:<password>@nodeexpress.cbxaf3w.mongodb.net/?retryWrites=true&w=majority
+PORT=3000
